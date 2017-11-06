@@ -20,6 +20,7 @@ defmodule Clock.Mixfile do
 
   defp deps do
     [
+      {:distillery, "~> 1.5.2"}
     ]
   end
 end
